@@ -103,9 +103,8 @@ function eligirPago() {
     
 }
 
-function calcular() {
-    carrito.calcularTotal();
-   
+function calcular(){
+    carrito.calcularTotal();  
 }
 
 function tomarPedidos() {
